@@ -1,2 +1,2 @@
 # VSCodeExt
-This is Repository will be home to VS Code Extensions
+This Repository will be home to VS Code Extensions
